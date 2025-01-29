@@ -1,0 +1,14 @@
+{
+  "name": "open-scribe",
+  "version": "1.0.0",
+  "description": "AI-powered medical scribe assistant",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "Dr. Ashish Bamania",
+  "scripts": {
+    "start": "concurrently \"cd open-scribe-frontend && yarn start\" \"cd open-scribe-backend && yarn start\""
+  },
+  "dependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
