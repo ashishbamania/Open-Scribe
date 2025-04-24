@@ -2,6 +2,9 @@
 
 Open Scribe is an AI-powered medical scribe assistant that helps healthcare professionals convert their spoken consultations into properly formatted medical notes.
 
+## Preview
+https://www.linkedin.com/feed/update/urn:li:activity:7321238297773555712
+
 ## Features
 
 - **Real-time Audio Recording**: Record medical consultations directly through the browser
